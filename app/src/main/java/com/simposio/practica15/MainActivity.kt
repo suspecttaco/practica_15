@@ -19,7 +19,7 @@ class MainActivity : ComponentActivity() {
         enableEdgeToEdge()
         setContent {
             Practica15Theme {
-
+                NotificationScreen()
             }
         }
     }
